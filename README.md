@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Film production Insights Project
+# Film production Insights Project
 
 ## Introduction
 Welcome to the Film production Insights Project! This project aims to provide a comprehensive analysis of current box office trends to guide the strategic decisions for our new movie studio. By leveraging data from multiple sources, we aim to identify the types of films that are currently performing best at the box office and translate these findings into actionable insights.
