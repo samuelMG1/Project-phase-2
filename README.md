@@ -83,5 +83,3 @@ A Kpi image:
 Contact
 .# Project-phase-2 
 =======
-
->>>>>>> 0e34a44510920d2767d2a64f038465e887f0c6a9
