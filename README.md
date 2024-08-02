@@ -1,7 +1,7 @@
-# Film production Insights Project
+# Film production Insights 
 
 ## Introduction
-Welcome to the Film production Insights Project! This project aims to provide a comprehensive analysis of current box office trends to guide the strategic decisions for our new movie studio. By leveraging data from multiple sources, we aim to identify the types of films that are currently performing best at the box office and translate these findings into actionable insights.
+Welcome to the Film production Insights  This project aims to provide a comprehensive analysis of current box office trends to guide the strategic decisions for our new movie studio. By leveraging data from multiple sources, we aim to identify the types of films that are currently performing best at the box office and translate these findings into actionable insights.
 
 
 ## Objectives
@@ -81,5 +81,5 @@ A Kpi image:
    * Recommendation: Establish partnerships or collaborations with successful studios identified in the analysis. This can help leverage their expertise and increase the likelihood of box office success.
 
 Contact
-.# Project-phase-2 
+ 
 =======
